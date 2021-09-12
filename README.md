@@ -17,4 +17,4 @@ Some manual cleaning with excel to avoid some sentences with no sense.
 CodeEmporium playlist for Transformers: https://www.youtube.com/watch?v=TQQlZhbC5ps&list=PLTl9hO2Oobd_bzXUpzKMKA3liq2kj6LfE&ab_channel=CodeEmporium.
 Transformers from scratch: https://towardsdatascience.com/transformers-from-scratch-creating-a-tokenizer-7d7418adb403.
 Krish Naik Deep playlist for BERT implementation: https://www.youtube.com/watch?v=DkzbCJtFvqM&list=PLZoTAELRMXVOTsz2jZl2Oq3ntWPoKRKwv&ab_channel=KrishNaik.
-https://arxiv.org/pdf/1810.04805.pdf.
+Search paper for BERT: https://arxiv.org/pdf/1810.04805.pdf.
