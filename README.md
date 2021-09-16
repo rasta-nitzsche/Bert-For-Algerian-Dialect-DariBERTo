@@ -2,7 +2,7 @@
 
 ## About
 We developped 2 BERT models that can understand Algerian dialect (Darija).
-One model is from scratch (You should execute the code on a server for many hours to train the model as we could not do this), we called it DariBERTo.
+One model is from scratch (You should execute the code on TPU servers for many hours to train the model to get good results), we called it DariBERTo.
 One pretrained model for the Arabic language from moha. Link: https://huggingface.co/moha/arabert_c19.
 
 ## Data Collection
