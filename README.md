@@ -9,7 +9,7 @@ One pretrained model for the Arabic language from moha. Link: https://huggingfac
 We got the needed data by web scrapping via APIs three social networks: Facebook, Twitter, YouTube. We got over 500 000  raw data but will shorten due to the preprocessing.
 
 ## Preprocessing
-Delete URL's, ponctuation, repeated caracters, additionnal blanks, numbers and emojis.
+Delete URL's, ponctuation, repeated caracters, additionnal blanks, numbers and emojis...
 Normalize arabic numbers that means letters by subbing them with their correct value (.kh=5, h=7,q=9, ou=2, t=6).
 Some manual cleaning with excel to avoid some sentences with no sense.
 
